@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kamalcr7.github.io/snippets-7o71u4/sitemap.xml
